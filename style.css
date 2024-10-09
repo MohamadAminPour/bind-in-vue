@@ -1,0 +1,30 @@
+.red {
+  background-color: red;
+}
+.orange {
+  background-color: orange;
+}
+.green {
+  background-color: green;
+}
+.progress{
+    position: relative;
+    width: 400px;
+    height: 9px;
+    background: gray;
+    border-radius: 50rem;
+}
+.progressInner{
+    position: absolute;
+    width: 10%;
+    height: 100%;
+    border-radius: 50rem;
+}
+span{
+    display: block;
+}
+
+button{
+    width: 10rem;
+    margin: 0.2rem;
+}
